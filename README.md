@@ -1,7 +1,7 @@
 ![MasterHead](https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg)
 <h1 align="center">Hi 👋, I'm Mahyar!</h1>
 <h3 align="center">A passionate Data Scientist from Vancouver</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyarsab&label=Profile%20views&color=0e75b6&style=flat" alt="mahyarsab" /> </p>
