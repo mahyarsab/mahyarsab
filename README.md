@@ -48,7 +48,7 @@
 - a Tech website with HTML/CSS
 - Online Taxi Web Application prototype with Adobe XD
 - Portfolio website prototype with Figma
-- Pima Indian Diabetes analysis with SPSS Modeler and Microsoft Excel Data Analysis tool
+- Pima Indian Diabetes analysis with IBM SPSS Modeler and Microsoft Excel Data Analysis tool
 - Superstone sales analysis with Microsoft Power BI
 - an investigation modeling West Nile Virus prevalence in the Chicago metro area
 - an analysis of Bixi Bike Rental traffic in Montreal
