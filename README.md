@@ -42,9 +42,14 @@
 - 🙂 I'm open for a job oportunity as a Data scientist/Analyst, and continue to improve my data science skills
 
 
-📫 How to reach me : **saboonimahyar@gmail.com**
+📫 How to reach me : **saboonimahyar@gmail.com**   
 
 🔗 My LinkedIn Profile :    [![Linkedin Badge](https://img.shields.io/badge/-mahyar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-sabouniaghdam/)
+
+💼 My Portfolio :   <a href="https://mahyarsab.github.io/"><img src="https://img.shields.io/badge/ 🪪 Website-mahyar sabouniaghdam-red?style=flat-square">
+
+   
+
 
 ---
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1">
@@ -82,6 +87,11 @@
 <a href="https://github.com/mahyarsab" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<p align="center">
+<a href="mailto:saboonimahyar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahyarsab&show_icons=true&locale=en" alt="mahyarsab" /></p>
 
