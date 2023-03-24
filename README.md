@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyarsab&label=Profile%20views&color=0e75b6&style=flat" alt="mahyarsab" /> </p>
 
 <h1 align="center">
-   🌲 Welcome to my Github Profile! 🌅 
+   🌲 Welcome to my GitHub Profile! 🌅 
 </h1>
 
 <h2 align="center">Hi, I'm Mahyar!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
